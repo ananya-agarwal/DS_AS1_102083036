@@ -35,4 +35,20 @@ After evaluation of the model on test set the observed RMSE value is 22.45 (appr
 Evaluation Graphs:
 •	True Vs Predicted Values Scatter Plot
 
+<img src="https://github.com/ananya-agarwal/DS_AS1_102083036/blob/main/1.png" width=800>
+<br>
+
+•	Line plot of predicted values for all the 5 parameters (Each colored line represent predictions of one parameter)
+
+<img src="https://github.com/ananya-agarwal/DS_AS1_102083036/blob/main/2.jpg" width=800>
+<br>
+
+<img src="https://github.com/ananya-agarwal/DS_AS1_102083036/blob/main/3.jpg" width=800>
+<br>
+
+•	True and Predicted Values Plot
+
+<img src="https://github.com/ananya-agarwal/DS_AS1_102083036/blob/main/4.jpg" width=800>
+<br>
+
  
