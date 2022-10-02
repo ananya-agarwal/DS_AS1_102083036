@@ -31,4 +31,8 @@ Model Evaluation:
 •	Rescale the values back to the original scale (Inverse Scaling) and compute root mean square error (RMSE) based on predicted and actual values
 •	Visualize results by plotting graphs
 After evaluation of the model on test set the observed RMSE value is 22.45 (approx).
+
+Evaluation Graphs:
+•	True Vs Predicted Values Scatter Plot
+
  
